@@ -10,4 +10,7 @@ script:
 - ./ci/build.js
 - ./ci/test.js
 - ./ci/cover.js
-# - ./ci/report.js
+- ./ci/report.js
+env:
+  global:
+    secure: itQCZKYKQUA58Il+dxNjodGKcr9vQTwVt72El06PaI12tZcpeD9CoJfEhg/maQXi+gpRrpj1rqUMcIFGguCz3StoVlk29Z9KpWZdsXCa/zhx4ooezAbRwn5CWtuHfY/dOzy/oA6p86/qXJOPR+NnEuC39qEFpqGxjHg139hMH1ddaQlVlgMzT/eKoKvEfJXFC2nzfz02Ch3irIH2F6WljNi1voU++XTgDtpqnMkYllcETOFsiTB7DYAmviCqHCsT4fc7+Srch0cBsTT6GAOkwgWu6i3lLId2F3NiFDiGERp03FlfTYct3tFZnQVcWLhClRO/jvwf+0q/f1hMcy/LUmZU3zPyuBk27ggy2SpD7t3/YWH1lyGH8IvTxfnnUnHn+foIOyMxoHVgekILDO30ici6DRnfOrmymdKOC92C+ptU+4X9WmAp1YYRkCIgJA3yH7CviAFI0dUYh3P81ND1hXjDLL/3Y4MY51PVboOr5wADcsVIRBD/9glal8VfmNgLpxHnI1uhydXnzibKq9W3VCo7Xs0B18rQH6X51UBXRi35PKttvACGA9/P3lSxXmYE1EFUNrcTAU3CBjJkj0LE61DkXkKXDO+UTCWcZjI0VqZuTRXDuBujxNHKPo1OlFvlBD/0oPisTllNhaMXAp/Yu2uDRaHP264opOUqWbY30XY=
