@@ -27,7 +27,7 @@ arraysort
 <!-- Description Start -->
 <a name="description"></a>
 
-Node.js module for array sorting.
+Array sorting utility.
 
 <!-- Description End -->
 
@@ -83,3 +83,12 @@ This software is released under the [MIT License](https://github.com/okunishinis
 <!-- LICENSE End -->
 
 
+<!-- Links Start -->
+<a name="links"></a>
+
+Links
+------
+
++ [arrayfilter](https://github.com/okunishinishi/node-arrayfilter)
+
+<!-- Links End -->
