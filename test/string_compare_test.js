@@ -1,6 +1,6 @@
 /**
- * Test case for stringCompare
- * Runs with nodeunit
+ * Test case for stringCompare.
+ * Runs with nodeunit.
  */
 
 "use strict";
