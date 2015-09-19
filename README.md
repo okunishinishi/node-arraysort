@@ -20,6 +20,7 @@ arraysort
 [bd_gemnasium_shield_url]: https://gemnasium.com/okunishinishi/node-arraysort.svg
 [bd_npm_url]: http://www.npmjs.org/package/arraysort
 [bd_npm_shield_url]: http://img.shields.io/npm/v/arraysort.svg?style=flat
+[bd_bower_badge_url]: https://img.shields.io/bower/v/arraysort.svg?style=flat
 
 <!-- Badge End -->
 
@@ -33,9 +34,13 @@ Array sorting utility.
 
 
 
+
 <!-- Sections Start -->
 <a name="sections"></a>
 
+<!-- Section from "doc/readme/01.Installation.md.hbs" Start -->
+
+<a name="section-doc-readme-01-installation-md"></a>
 Installation
 -----
 
@@ -43,9 +48,13 @@ Installation
 npm install arraysort --save
 ```
 
+<!-- Section from "doc/readme/01.Installation.md.hbs" End -->
+
+<!-- Section from "doc/readme/02.Usage.md.hbs" Start -->
+
+<a name="section-doc-readme-02-usage-md"></a>
 Usage
 -------
-
 
 + [Sort Strings](#sort-strings)
 
@@ -68,6 +77,7 @@ values = values.sort(stringDesc); // -> ['bar', 'baz', 'foo']
 ```
 
 
+<!-- Section from "doc/readme/02.Usage.md.hbs" End -->
 
 
 <!-- Sections Start -->
