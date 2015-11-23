@@ -1,6 +1,6 @@
 {
   "name": "arraysort",
-  "version": "1.0.4",
+  "version": "2.0.1",
   "description": "Array sorting utility.",
   "main": "lib",
   "scripts": {
@@ -21,17 +21,17 @@
   },
   "homepage": "https://github.com/okunishinishi/node-arraysort#readme",
   "devDependencies": {
-    "ape-covering": "*",
-    "ape-deploying": "*",
-    "ape-releasing": "*",
-    "ape-reporting": "*",
-    "ape-tasking": "*",
-    "ape-testing": "*",
-    "ape-tmpl": "*",
-    "ape-updating": "*",
-    "arrayfilter": "*",
-    "coz": "*",
-    "coz-tmpl": "*"
+    "ape-covering": "^2.0.0",
+    "ape-deploying": "^2.0.0",
+    "ape-releasing": "^1.1.2",
+    "ape-reporting": "^2.0.3",
+    "ape-tasking": "^2.0.0",
+    "ape-testing": "^2.0.0",
+    "ape-tmpl": "^2.0.4",
+    "ape-updating": "^2.0.0",
+    "arrayfilter": "^1.1.2",
+    "coz": "^3.1.6",
+    "coz-tmpl": "^1.1.0"
   },
   "dependencies": {},
   "engines": {
