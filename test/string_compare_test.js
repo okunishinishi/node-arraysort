@@ -5,7 +5,7 @@
 
 "use strict";
 
-var stringCompare = require('../lib/string_compare.js');
+const stringCompare = require('../lib/string_compare.js');
 
 exports['Sort string.'] = function (test) {
     test.deepEqual(
